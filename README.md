@@ -1,4 +1,4 @@
-### Olá! Me chamo Matheus Turolla!! 👋
+### Olá! Eu sou o Matheus!! 👋
 - 🔭 Atualmente estou à procura de um emprego
 - 🌱 Estudando Python
 - 📫 Contate-me no email: matheusturolla.comercial@gmail.com
