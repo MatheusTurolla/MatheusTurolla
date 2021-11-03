@@ -1,6 +1,6 @@
 ### Prazer!! Me chamo Matheus!! 👋
 - 🔭 Atualmente estou à procura de um emprego
-- 🌱 Estudando C# para desenvolvimento de aplicações
+- 🌱 Estudando C# para desenvolvimento de aplicações .NET
 - 📫 Contate-me no email: matheusturolla.comercial@gmail.com
 <br><br>
 
