@@ -1,5 +1,5 @@
 ### Prazer!! Me chamo Matheus!! 👋
-- 🔭 Atualmente estou à procura de um emprego
+- 🔭 Estagiário em Desenvolvimento de Software | Bosch Brasil
 - 🌱 Estudando C# para desenvolvimento de aplicações 
 - 📫 Contate-me no email: matheusturolla.comercial@gmail.com
 <br><br>
