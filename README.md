@@ -1,5 +1,5 @@
 ### Prazer!! Me chamo Matheus!! 👋
-- 🔭 Dev </> .NET
+- 🔭 Dev .NET </> 
 - 🌱 Estudando atualmente Desenvolvimento Web Backend (Django REST) 
 - 📫 Contate-me no email: matheusturolla.comercial@gmail.com
 <br><br>
