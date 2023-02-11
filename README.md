@@ -1,5 +1,5 @@
 ### Prazer!! Me chamo Matheus!! 👋
-- 🔭 Intern Dev .NET </> 
+- 🔭 Intern .NET Dev </> 
 - 🌱 Estudando atualmente Desenvolvimento Web Backend (Django REST) 
 - 📫 Contate-me no email: matheusturolla.comercial@gmail.com
 <br><br>
