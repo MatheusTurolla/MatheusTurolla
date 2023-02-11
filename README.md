@@ -1,6 +1,6 @@
 ### Prazer!! Me chamo Matheus!! 👋
-- 🔭 Estagiário em Desenvolvimento de Software
-- 🌱 Estudando C# para desenvolvimento de aplicações 
+- 🔭 Dev </> .NET
+- 🌱 Estudando atualmente Desenvolvimento Web Backend (Django REST) 
 - 📫 Contate-me no email: matheusturolla.comercial@gmail.com
 <br><br>
 
